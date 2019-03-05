@@ -14,3 +14,10 @@ pom.xml.asc
 /.repl
 *.log
 /.env
+/lib/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+.cpcache/
